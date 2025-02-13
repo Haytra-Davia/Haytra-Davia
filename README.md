@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="asaduasyuja@gmail.com" target="_blank">
-    <img src="https://mail.google.com/mail/u/0/#inbox" height="35" alt="gmail logo"  />
+    <img src="https://mail.google.com/mail/u/1/" height="35" alt="gmail logo"  />
   </a>
 </div>
 
